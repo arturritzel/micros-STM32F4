@@ -1,5 +1,17 @@
 #include "stm32f4xx.h"
 
+/*
+
+led 1-7, respectivamente:
+B1, B2, B3, B5, B12, B13, B14
+
+entrada binario, em ordem:
+PC0, PC1, PC2
+
+botao:
+PC3
+
+*/
 
 void t(void) {
 	for (int i=0; i != 1500; i++);  // espera
