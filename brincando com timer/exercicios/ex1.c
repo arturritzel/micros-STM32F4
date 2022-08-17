@@ -5,7 +5,7 @@ como o led deve ser ligado em low, ele deve ser polarizado reversamente. a malha
 	 *	0,2s = 1/1m6 * arr * psc
 	 *	3200000 = arr * psc
 	 *	psc = 1000
-	 *	arr = 3200
+	 *	arr = 1600
 	 */
 
 #include "stm32f4xx.h"
