@@ -1,4 +1,7 @@
-// nao sei no q eu tava pensando mas existem no minimo uns 50 jeitos mais simples de fazer isso
+// nao sei no q eu tava pensando pq isso ta td erradokkkk
+
+// mas deu pra entender oq o tui do passado tentou fazer,
+// e da pra dizer que existem no minimo uns 50 jeitos mais simples, rápidos, fáceis e práticos de fazer isso
 
 void t(int ms){
 	int novoArr = (ms*16) - 1;
