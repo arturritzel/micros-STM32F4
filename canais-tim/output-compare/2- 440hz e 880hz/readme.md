@@ -25,7 +25,7 @@ o canal 1 tem o dobro da frequência (880hz), já que seu valor de comparação 
 
 
 
-- (ativar interrupção)
+- (ativar interrupção)  
 ![21](21.png)    
 ![22](22.png)   
 ![23](23.png)  
