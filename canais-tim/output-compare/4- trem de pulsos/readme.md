@@ -17,14 +17,7 @@ void HAL_TIM_OC_DelayElapsedCallback(TIM_HandleTypeDef *htim){
 }
 ```
 
-16800 PSC * 10000 ARR / 84000000 SYSCLK = ciclo de 2s
-
-se 10000 ARR = 2s, 20ms = X CCR
-
-x = 0,02 * 10000 / 2 = 100
-
-
-
+8400 * 10000 / 84000000 = ciclo de 1s
 
 
 - (ativar interrupção)  
