@@ -19,7 +19,9 @@ void HAL_TIM_OC_DelayElapsedCallback(TIM_HandleTypeDef *htim){
 ```
 
 
-191 * 500 / 84000000 = 0,00113s ou 880hz
+191 * 500 / 84000000 = 0,00113s -> ciclo de 0,00226s ou 440hz no canal 2
+o canal 1 tem o dobro da frequência (880hz), já que seu valor de comparação alterna entre 0% e 50%
+
 
 
 
