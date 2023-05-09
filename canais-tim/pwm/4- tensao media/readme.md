@@ -1,4 +1,4 @@
-(vc precisa mudar a frequência do timer e a variável 'tamanho' de acordo com a frequência que vc quer a onda senoidal
+(vc precisa mudar a frequência do timer e a variável 'tamanho' de acordo com a frequência que vc quer a onda senoidal)  
 
 includes:
 ```c
